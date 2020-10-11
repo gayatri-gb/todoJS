@@ -1,0 +1,30 @@
+body {
+  background: radial-gradient(#73cdd3, #9198e5);
+}
+
+.wrapper {
+  margin: 50px;
+  text-align: center;
+}
+h1 {
+  margin: 20px;
+  margin-right: 50px;
+}
+
+.addnew {
+  border-radius: 5rem;
+  box-shadow: 1em;
+  background-color: green;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+
+#add {
+  box-shadow: 1em;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
